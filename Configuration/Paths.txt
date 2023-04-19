@@ -1,0 +1,1 @@
+/home/advik/Desktop/Intro_ROS_Git_Linux/Week_02/ros_skill_lync/Configuration
